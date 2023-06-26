@@ -1,16 +1,13 @@
-<p style="text-align: center;">Hello :wave: Welcome to my jungle :monkey:</p>
----
+<h1 align="center">Hello :wave: Welcome to my jungle :monkey:</h1>
 
-<p style="text-align: center;">I'm Enes who is working as  a Mobile Developer, Kotlin and Android enthusiast based in Izmir, Turkey.</p>
+<h4 align="center">I'm Enes who is working as  a Mobile Developer, Kotlin and Android enthusiast based in Izmir, Turkey.</h4>
 
-<div id="badges" style="text-align: center;">
-  <a href="https://www.linkedin.com/in/eneszor/" >
-    <img src="https://komarev.com/ghpvc/?username=enofeb"/>
-  </a>
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=enofeb" align="center"/>	
+</p>
 
-<div id="badges" style="text-align: center;">
-  <a href="https://www.linkedin.com/in/eneszor/" >
+<div align="center">
+  <a href="https://www.linkedin.com/in/eneszor/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@enofeb">
@@ -19,9 +16,9 @@
   <a href="https://twitter.com/eneszorr">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://www.instagram.com/eneszorr/">
+  <a href="https://www.instagram.com/eneszorr/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a>	
 </div>
 
 - 🤩 About myself:
