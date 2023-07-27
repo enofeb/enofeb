@@ -28,6 +28,7 @@
 
 
 - 📰  Latest posts:
+  	- [Android Test Doubles In Unit Test](https://medium.com/trendyol-tech/android-test-doubles-in-unit-test-bfcb26d3dc3f)
 	- [New Android UI Kit Jetpack Compose](https://medium.com/trendyol-tech/new-android-ui-kit-jetpack-compose-c68e9df92f1a)
 	- [Build Android App Widgets Using Jetpack Glance](https://medium.com/better-programming/android-jetpack-glance-for-app-widgets-bd7a704624ba)
 	- [Thread dealers: Kotlin Coroutines for beginners !](https://medium.com/@enofeb/thread-dealers-kotlin-coroutines-for-beginners-74a9c732d6d2)
