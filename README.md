@@ -22,9 +22,9 @@
 </div>
 
 - 🤩 About myself:
-	- I love take a photo and workout 💪
+	- I love taking photos and working out 💪
 	- I like deep techno 🎶 
-	- Exploring new places my passion
+	- Exploring new places is my passion
 
 
 - 📰  Latest posts:
